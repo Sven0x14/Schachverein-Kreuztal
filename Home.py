@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image("img\logo.jpg")
+# st.image("img\logo.jpg")
 st.header("Hier entsteht die neue Webseite des Schachverein Kreuztal e.V.")
 
 st.subheader("Willkommen beim Schachverein Kreuztal e.V.")
@@ -24,4 +24,5 @@ st.markdown("""**Buschhüttener Str. 91**""")
 st.markdown("""**57223 Kreuztal-Buschhütten**""")
 
 st.markdown("""**Vereinsabend: montags ab 19 Uhr**""")
+
 
